@@ -24,31 +24,57 @@ Copyright © 2025 myrebekacn. 保留所有权利。
 
 本作品受中华人民共和国著作权法及国际版权公约保护。
 
-**未经作者书面授权，严禁以下行为：**
+---
 
-- 复制、转载、摘编本书全部或部分内容
-- 将本书内容用于任何商业目的
-- 将本书内容翻译为其他语言并传播
-- 将本书内容改编为其他形式的作品（包括但不限于影视、有声书、课程）
-- 通过任何媒介或平台公开传播本书内容
+### 一、禁止演绎（No Derivatives）
 
-**关于核心方程的特别声明：**
+本作品依照 **[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)** 协议授权。
 
-本书提出的生存方程 S = ηR / Δ·I·P 及其五变量框架（资源量R、转化率η、扰动Δ、结构摩擦I、基本消耗P），包括其理论推导、变量定义、分析框架及应用方法，均为作者原创知识成果，受著作权法保护。
+你可以：
+- 在注明作者和来源的前提下，免费阅读和分享本作品的原始内容
 
-未经作者书面授权，严禁对上述方程及框架进行以下操作：
-
-- 以任何形式引用、援用或据此展开论述
-- 在学术论文、研究报告、教学材料中使用
-- 对方程进行演绎、推导、变形或扩展，并将结果对外发表或传播
-- 以方程为基础开发课程、工具、产品或商业服务
+你不可以：
+- 对本作品进行任何形式的修改、演绎、转换或再创作
+- 将本作品或其任何部分用于商业目的
+- 对本书提出的生存方程 **S = ηR / Δ·I·P** 及其五变量框架进行演绎、推导、变形、扩展，并将结果对外发表或传播
+- 以方程框架为基础开发课程、工具、产品、算法或任何商业服务
 - 将方程框架转换为其他表达形式（包括但不限于图表、模型、算法）后传播
-
-本仓库仅用于版本管理与备份，文件的公开可见不构成对任何形式使用的授权。下载或阅读本书内容即表示你已知悉并同意遵守上述版权条款。
-
-如需授权合作，请通过GitHub联系作者。
 
 ---
 
-**All rights reserved. No part of this publication, including the survival equation S = ηR / Δ·I·P and its theoretical framework, may be reproduced, derived, transformed, or transmitted in any form or by any means without the prior written permission of the author.**
+### 二、商业使用及存证
+
+任何商业性使用——包括但不限于：
+
+- 将本书内容或框架用于商业审计、咨询、培训
+- 在营利性出版物中引用或援用本书内容
+- 以本书框架为基础开发任何营利性产品或服务
+
+——均须事先获得作者**书面许可**，未经授权的商业使用将依法追究责任。
+
+**确权声明：** 本仓库的 GitHub Commit 记录（首次提交时间戳：2025年）为本作品及其核心框架在全球范围内的原始创作存证，具有唯一性与可追溯性，可作为知识产权争议中的原始确权证据。
+
+---
+
+### 三、独家保留权
+
+本书提出的生存方程 S = ηR / Δ·I·P 及其理论框架的**文学性重构权利**由作者本人独家保留，具体包括但不限于：
+
+- 以本框架为基础创作的虚构类作品（小说、短篇故事、诗歌等）
+- 以本框架为基础创作的非虚构类文学作品
+- 影视剧本、舞台剧本、广播剧本
+- 互动游戏剧本、叙事游戏设计
+- 任何基于本框架衍生的世界观设定、宇宙设定及其扩展作品
+
+任何个人或机构如希望基于本框架进行上述形式的创作，须事先获得作者本人的**书面授权**，否则视为侵权。
+
+---
+
+本仓库仅用于版本管理与创作存证，文件的公开可见不构成对任何形式使用的授权。访问、下载或阅读本作品内容，即表示你已知悉并同意遵守上述全部条款。
+
+如需授权合作，请通过 GitHub 联系作者：[@myrebekacn](https://github.com/myrebekacn)
+
+---
+
+**This work is licensed under CC BY-NC-ND 4.0. All derivative rights, commercial rights, and literary adaptation rights are exclusively reserved by the author. The GitHub Commit record serves as the original global proof of authorship. Unauthorized use will be pursued under applicable law.**
 
