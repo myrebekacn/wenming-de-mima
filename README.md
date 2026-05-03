@@ -1,4 +1,6 @@
-# 文明的密码
+# 文明的物理法则
+
+**从熵增到人类文明的生存逻辑**
 
 **作者：myrebekacn**
 
@@ -6,7 +8,7 @@
 
 ## 关于本书
 
-《文明的密码》是一部关于系统生存逻辑的非虚构著作。
+《文明的物理法则》是一部关于系统生存逻辑的非虚构著作。
 
 本书以一个方程为核心框架——
 
@@ -14,7 +16,48 @@
 
 五个变量，对应五种不可互换的因果角色：资源量（R）、转化率（η）、扰动（Δ）、结构摩擦（I）、基本消耗（P）。这套方程从热力学第二定律和耗散结构理论生长出来，贯穿宇宙演化、生命进化、人类文明、AI时代，在所有尺度上运行，从未停止。
 
-全书十八章，从苏联的崩塌到一个俄亥俄州家庭的账单，从寒武纪大爆发到哈伯-博施法，从范式跃迁到文明的账单，从AI时代的代价分配到一个坐在铜镜前的女人——试图用同一套语言，说清楚为什么有些系统能在时间里存活，有些系统会崩溃。
+---
+
+## 目录
+
+**第一部　生存的方程**
+
+- 第一章　生存的算法——永远高悬的达摩克利斯之剑
+- 第二章　宇宙为什么会有这把剑——从老子到热力学
+- 第三章　分子的力量——同样的资源，为什么结果完全不同
+- 第四章　分母的重量——三种压力，系统必须承受的重量
+
+**第二部　生命的算法**
+
+- 第五章　生命如何运行这套方程——三十八亿年的实验室
+- 第六章　进化——死亡是每一次更新的代价
+- 第七章　从DNA编码到叙事编码——人类相信虚构的那一天，文明便萌芽了
+
+**第三部　叙事的力量**
+
+- 第八章　叙事的基础设施——语言、文字与大规模协作的诞生
+- 第九章　叙事的力量——从比特币到金字塔，叙事如何塑造文明
+- 第十章　那道闪电——扰动Δ来临时，系统为何失效
+
+**第四部　文明与代价**
+
+- 第十一章　范式跃迁——每一次叙事框架的重构，文明升级
+- 第十二章　跃迁的条件——为什么有些系统跃迁，有些系统崩溃
+- 第十三章　多系统的世界——当不同S值的系统相遇
+- 第十四章　文明是什么——代价，落在谁身上
+
+**第五部　AI与文明**
+
+- 第十五章　AI时代——这一次解放的是大脑
+- 第十六章　那把剑还在——一个不活在方程里的系统，无法从方程里长出文明
+
+**第六部　活在方程里**
+
+- 第十七章　方程与欲望——从爱美开始
+- 第十八章　方程与经济——什么才是健康的经济
+- 第十九章　分布与多样——方程在时间里的最优解
+
+**尾记　一个方程的自白**
 
 ---
 
@@ -76,5 +119,5 @@ Copyright © 2025 myrebekacn. 保留所有权利。
 
 ---
 
-**This work is licensed under CC BY-NC-ND 4.0. All derivative rights, commercial rights, and literary adaptation rights are exclusively reserved by the author. The GitHub Commit record serves as the original global proof of authorship. Unauthorized use will be pursued under applicable law.**
+**This work is licensed under CC BY-NC-ND 4.0. All derivative rights, commercial rights, and literary adaptation rights, including the survival equation S = ηR / Δ·I·P and its theoretical framework, are exclusively reserved by the author. The GitHub Commit record serves as the original global proof of authorship. Unauthorized use will be pursued under applicable law.**
 
